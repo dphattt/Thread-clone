@@ -10,6 +10,5 @@ createRoot(document.getElementById("root")).render(
   <Theme>
     <App />
   </Theme>
-
   // </StrictMode>,
 );
